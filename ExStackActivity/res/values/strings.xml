@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ExActivityActivity!</string>
+    <string name="osll">OSLL Rulez!</string>
+    <string name="app_name">ExActivity</string>
+</resources>
